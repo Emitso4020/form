@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+    color: blueviolet;
+}
+
+div{
+    background-color: black;
+    font-size: large;
+    text-align: center;
+    border: 1px solid darkturquoise;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+input{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px 30px 10px 30px;
+    margin: 10px;
+    text-align: center;
+}
+
+label{
+    font-size: 25px;
+}
+
+.radio{
+    word-spacing: 30px;
+}
+
+.hobby{
+    word-spacing: 40%;
+}
+
+button{
+    margin: 5px;
+    padding: 10px;
+    color: blueviolet;
+    background-color: darkturquoise;
+    border: 1px solid blueviolet;
+    border-radius: 20px;
+    font-size: large;
+    text-align: center;
+}
